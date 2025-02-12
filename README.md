@@ -1,5 +1,3 @@
 # Análisis Espacial de los usuarios asignados de la Subred Sur mediante tecnicas de programación
 
-Este repositorio contiene el código y datos necesarios para el análisis espacial de los usuarios asignados a la Subred Sur de Salud en Bogotá.
-
-## 📁 Estructura del Repositorio
+El propósito de este espacio es proporcionar a los visitantes una guía clara sobre cómo cargar datos alfanuméricos que contienen la dirección o ubicación espacial de los habitantes de un territorio. En este caso, se trabajará con los datos de los usuarios de la Subred Integrada de Servicios de Salud Sur. A lo largo del proceso, se llevará a cabo un diagnóstico de la información y se realizarán diversos análisis espaciales, los cuales se detallarán en cada etapa del procedimiento.
